@@ -1,6 +1,6 @@
 # 🏄 Gabriel Dallafávera
 
-**`Backend Developer (JavaScript/PHP/MySql)`**
+**`FullStack Web Developer (JavaScript/PHP/MySql)`**
 
 ---
 
